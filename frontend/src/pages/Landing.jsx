@@ -105,7 +105,10 @@ const Landing = () => {
       {/* Header */}
       <header className="header">
         <div className="container-custom">
-          <div className="logo">lastofbet.com</div>
+          <div className="logo-container">
+            <img src="/logo.png" alt="lastofbet.com" className="logo-image" />
+            <div className="logo">lastofbet.com</div>
+          </div>
           <a href="mailto:lastofbet@proton.me" className="contact-link">
             <Mail className="w-4 h-4" />
             lastofbet@proton.me

@@ -129,7 +129,7 @@ const Landing = () => {
             </Button>
             <Button 
               variant="outline"
-              onClick={() => window.location.href = 'mailto:info@lastofbet.com'}
+              onClick={() => window.location.href = 'mailto:lastofbet@proton.me'}
               className="btn-secondary-custom"
             >
               İletişime Geç

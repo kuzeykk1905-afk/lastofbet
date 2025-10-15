@@ -167,7 +167,22 @@
 
 @media (max-width: 768px) {
   .hero-title {
-    font-size: 48px;
+    font-size: 40px;
+  }
+  
+  .hero-section {
+    padding: 100px 0 60px;
+  }
+  
+  .hero-cta {
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  .btn-primary-custom,
+  .btn-secondary-custom {
+    width: 100%;
+    min-width: unset;
   }
 }
 

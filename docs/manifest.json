@@ -1,0 +1,28 @@
+{
+  "short_name": "lastofbet",
+  "name": "lastofbet.com - Premium Domain",
+  "description": "Kısa, akılda kalıcı ve güçlü bir marka ismi. Bu premium domain şu anda satılıktır.",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0C0C0C",
+  "background_color": "#0C0C0C",
+  "orientation": "portrait-primary"
+}

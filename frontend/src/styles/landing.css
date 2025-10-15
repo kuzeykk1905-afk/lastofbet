@@ -87,6 +87,18 @@
   transition: color 0.2s ease;
 }
 
+@media (max-width: 768px) {
+  .contact-link {
+    font-size: 12px;
+    gap: 6px;
+  }
+  
+  .contact-link .w-4 {
+    width: 14px;
+    height: 14px;
+  }
+}
+
 .contact-link:hover {
   color: var(--accent-green);
 }

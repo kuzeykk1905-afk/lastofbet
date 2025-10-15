@@ -181,7 +181,7 @@ const Landing = () => {
               </p>
               <div className="contact-info">
                 <Mail className="w-5 h-5" />
-                <a href="mailto:info@lastofbet.com">info@lastofbet.com</a>
+                <a href="mailto:lastofbet@proton.me">lastofbet@proton.me</a>
               </div>
             </div>
             <form onSubmit={handleSubmit} className="offer-form">
